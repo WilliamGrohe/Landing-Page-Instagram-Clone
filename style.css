@@ -125,11 +125,11 @@ body{
 }
 
 .app-download:nth-child(1){
-	background-image: url('images/botao-apple.png');
+	background-image: url('https://github.com/WilliamGrohe/Landing-Page-Instagram-Clone/blob/main/Images/botao-apple.png?raw=true');
 }
 
 .app-download:nth-child(2){
-	background-image: url('images/botao-android.png');
+	background-image: url('https://github.com/WilliamGrohe/Landing-Page-Instagram-Clone/blob/main/Images/Botao-android.png?raw=true');
 }
 
 /* media queries */

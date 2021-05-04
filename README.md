@@ -1,8 +1,6 @@
 <h1 align="center"> Instagram Landing Page  Clone</h1>
 
-<h1 align="center">
-  <img alt="PageWebPreview" title="#PageWebPreview" src="./images/lp-insta-preview.jpg" />
-</h1>
+![Preview Desktop Page](https://github.com/WilliamGrohe/Landing-Page-Instagram-Clone/blob/main/Images/lp-insta-preview.jpg?raw=true)
 
 <h2 align="center"> 🌍 Veja online <a href="https://williamgrohe.github.io/Landing-Page-Instagram-Clone/">aqui</a></h2>
 
